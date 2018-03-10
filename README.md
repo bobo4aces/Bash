@@ -1,3 +1,3 @@
 # Bash
 Bash second try
-conflict?
+That's better!
